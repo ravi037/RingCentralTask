@@ -14,7 +14,7 @@ import org.openqa.selenium.support.ui.Select;
 import org.testng.Assert;
 
 
-public class RingCentralCart extends Exception {
+public class RingCentralCart {
 	
 	public static WebDriver driver;
 	ArrayList<Double> arr=new ArrayList<Double>();
